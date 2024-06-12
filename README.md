@@ -6,6 +6,49 @@
 
 Open-source MEMS-based RF measurement system for quantum information science.
 
+## Rack Mount Control Panel
+
+
+# 3d Printed parts
+
+## Thread Inserts
+
+[![images/4-40-inserts.png](images/4-40-inserts.png)](https://www.3djake.com/ruthex/threaded-insert-4-40-unc-100-pieces)
+
+## 4-40 quarter inch screws
+
+[![images/4-40-0.25-screw.png](images/4-40-0.25-screw.png)](https://www.mcmaster.com/90272A106/)
+
+## Arduino Bracket
+
+Use 4-40 brass thread inserts, press them in with a soldering iron
+
+[![https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png)](https://github.com/lafefspietz/QNA/blob/main/3dprint/arduino-bracket.STL) 
+
+## DC DC converter Bracket
+
+Use 4-40 brass thread inserts, press them in with a soldering iron
+
+[![HV-DCDC-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/HV-DCDC-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/HV-DCDC-bracket.STL) 
+
+## Front Panel Edge Bracket
+
+Use 4-40 brass thread inserts, press them in with a soldering iron. Attach to wood with #4 wood screws. 
+
+[![front-panel-edge-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-edge-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/front-panel-edge-bracket.STL) 
+
+## Front Panel Center Bracket
+
+place in center area of circuit board to prevent bowing, use #4 wood screws to mount.
+
+[![front-panel-center-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-center-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/front-panel-center-bracket.STL) 
+
+### Wood board
+ 
+We start construction with a board made of half inch white oak, 4 inches wide and 24 inches long.   
+
+
+
 # System Elements
 
  - rack mount controller
@@ -70,39 +113,7 @@ Drill loose #10 clearance holes in from edges 5/16" in from edge and up and down
 
 
 
-# 3d Printed parts
 
-## Thread Inserts
-
-[![images/4-40-inserts.png](images/4-40-inserts.png)](https://www.3djake.com/ruthex/threaded-insert-4-40-unc-100-pieces)
-
-## 4-40 quarter inch screws
-
-[![images/4-40-0.25-screw.png](images/4-40-0.25-screw.png)](https://www.mcmaster.com/90272A106/)
-
-## Arduino Bracket
-
-Use 4-40 brass thread inserts, press them in with a soldering iron
-
-[![arduino-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/arduino-bracket.png)](https://github.com/lafefspietz/memscal/blob/main/3dprint/arduino-bracket.STL) 
-
-## DC DC converter Bracket
-
-Use 4-40 brass thread inserts, press them in with a soldering iron
-
-[![HV-DCDC-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/HV-DCDC-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/HV-DCDC-bracket.STL) 
-
-## Front Panel Edge Bracket
-
-Use 4-40 brass thread inserts, press them in with a soldering iron. Attach to wood with #4 wood screws. 
-
-[![front-panel-edge-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-edge-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/front-panel-edge-bracket.STL) 
-
-## Front Panel Center Bracket
-
-place in center area of circuit board to prevent bowing, use #4 wood screws to mount.
-
-[![front-panel-center-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-center-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/front-panel-center-bracket.STL) 
 
 # Front Panel Wood Board Assembly
 
