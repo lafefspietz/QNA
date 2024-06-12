@@ -23,8 +23,6 @@ Open-source MEMS-based RF measurement system for quantum information science.
 
 Use 4-40 brass thread inserts, press them in with a soldering iron
 
-![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png)
-
 [![arduino-bracket.STL](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png)](https://github.com/lafefspietz/QNA/blob/main/3dprint/arduino-bracket.STL) 
 
 ## DC DC converter Bracket
@@ -45,9 +43,6 @@ place in center area of circuit board to prevent bowing, use #4 wood screws to m
 
 [![front-panel-center-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-center-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/front-panel-center-bracket.STL) 
 
-### Wood board
- 
-We start construction with a board made of half inch white oak, 4 inches wide and 24 inches long.   
 
 
 
