@@ -23,7 +23,9 @@ Open-source MEMS-based RF measurement system for quantum information science.
 
 Use 4-40 brass thread inserts, press them in with a soldering iron
 
-[![https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png)](https://github.com/lafefspietz/QNA/blob/main/3dprint/arduino-bracket.STL) 
+![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png)
+
+[![arduino-bracket.STL](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/arduino-bracket.png)](https://github.com/lafefspietz/QNA/blob/main/3dprint/arduino-bracket.STL) 
 
 ## DC DC converter Bracket
 
