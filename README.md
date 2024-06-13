@@ -88,7 +88,16 @@ Drill loose #10 clearance holes in from edges 5/16" in from edge and up and down
 
 ## Bud box
 
-[AN-1304-A pdf drawing from Bud industries website](https://www.budind.com/wp-content/uploads/hban1304a.pdf)
+
+
+![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/AN-1304-A-photo.png)
+
+![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/AN-1304-A-drawing.png)
+
+![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/AN-13040-A-lid-machined.png)
+
+![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/AN-13040-A-box-machined.png)
+
 
 ## To do:
 
