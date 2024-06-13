@@ -85,6 +85,11 @@ Cut it down to 19 inches, and sand off rough edges of saw cut.
 
 Drill loose #10 clearance holes in from edges 5/16" in from edge and up and down from center by 1.5 inches.
 
+
+## Bud box
+
+[AN-1304-A pdf drawing from Bud industries website](https://www.budind.com/wp-content/uploads/hban1304a.pdf)
+
 ## To do:
 
  - add dimensioned drawings to brackets in this document
