@@ -138,12 +138,16 @@ Drill loose #10 clearance holes in from edges 5/16" in from edge and up and down
 
 ## 5V to 12V boost
 
-[![](images/5v-12v-boost-amazon.png)](https://www.amazon.com/Voltage-Converter-Vintage-Indicator-80V-380V/dp/B09D93QNYK/ref=pd_vtp_h_pd_vtp_h_d_sccl_3/135-2213394-8928934)
+[![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/5v-12v-boost-amazon.png)](https://www.amazon.com/Voltage-Converter-Vintage-Indicator-80V-380V/dp/B09D93QNYK/ref=pd_vtp_h_pd_vtp_h_d_sccl_3/135-2213394-8928934)
 
 ## 12 V to 90 V boost
 
 
-[![](images/HV-boost-amazon.png)](https://www.amazon.com/DROK-Boost-Converter-Regulator-Length/dp/B09M3LMSS3/)
+[![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/HV-boost-amazon.png)](https://www.amazon.com/DROK-Boost-Converter-Regulator-Length/dp/B09M3LMSS3/)
+
+![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/dcdc-HV.PNG)
+
+![](https://raw.githubusercontent.com/lafefspietz/QNA/main/images/dcdc-HV-installation-photo.PNG)
 
 
 ```
