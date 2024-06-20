@@ -2,6 +2,9 @@
 
 ![](images/qrcode.png)
 
+![](images/qrcode-page.png)
+
+
 # 9button-9neopixel Printed Circuit Board(PCB)
 
 ## Files
