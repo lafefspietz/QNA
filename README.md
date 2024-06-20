@@ -44,6 +44,8 @@ place in center area of circuit board to prevent bowing, use #4 wood screws to m
 [![front-panel-center-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-center-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/front-panel-center-bracket.STL) 
 
 
+## Circuit Boards for Rack Mount
+
 
 
 # System Elements
