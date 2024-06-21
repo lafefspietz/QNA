@@ -4,7 +4,7 @@
 
 ![](images/qrcode-page.png) 
  
-# DB25-relay-HV-control Printed Circuit Board(PCB)
+# microd-header-adapter-board-rev2 Printed Circuit Board(PCB)
 
 ![](images/board-photo-unstuffed.jpg)
 
@@ -25,7 +25,7 @@
 
 ## Files
 
- - [Altium Schematic .SchDoc](DB25-relay-HV-control.schDoc)
- - [Altium project file .PrjPcb](DB25-relay-HV-control.PrjPcb)
- - [Altium Pcb File .PcbDoc](DB25-relay-HV-control.PrjPcb)
- - [.zip of Gerber files](DB25-relay-HV-control-gerbers.zip)
+ - [Altium Schematic .SchDoc](microd-header-adapter-board-rev2.schDoc)
+ - [Altium project file .PrjPcb](microd-header-adapter-board-rev2.PrjPcb)
+ - [Altium Pcb File .PcbDoc](microd-header-adapter-board-rev2.PrjPcb)
+ - [.zip of Gerber files](microd-header-adapter-board-rev2-gerbers.zip)
