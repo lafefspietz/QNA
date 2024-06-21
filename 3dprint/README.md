@@ -3,15 +3,27 @@
 ![](images/qrcode-page.png)
 
 
-# 3d Printed parts
+# 3d Printed Parts
+
+
+![](images/all-3d-printed-parts.jpg)
+
+ - []
+
 
 ## Thread Inserts
 
 [![images/4-40-inserts.png](images/4-40-inserts.png)](https://www.3djake.com/ruthex/threaded-insert-4-40-unc-100-pieces)
 
-## 4-40 quarter inch screws
+## 4-40 Quarter Inch Screws
 
 [![images/4-40-0.25-screw.png](images/4-40-0.25-screw.png)](https://www.mcmaster.com/90272A106/)
+
+## #4 Wood Screws
+
+[Mcmaster-Carr Part number 98685A540](https://www.mcmaster.com/98685A540/)
+
+[![](images/wood-screw.png)](https://www.mcmaster.com/98685A540/)
 
 ## Arduino Bracket
 
