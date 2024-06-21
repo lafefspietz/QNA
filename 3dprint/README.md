@@ -9,6 +9,12 @@
 ![](images/all-3d-printed-parts.jpg)
 
 
+
+ 1. [front-panel-edge-bracket.STL, print 2, add inserts](front-panel-edge-bracket.STL)
+ 2. [front-panel-center-bracket.STL, print 2](front-panel-center-bracket.STL)
+ 3. [arduino-bracket.STL, print 1, add inserts](arduino-bracket.STL)
+ 4. [HV-DCDC-bracket.STL, print 1, add inserts](HV-DCDC-bracket.STL) 
+
 ## Thread Inserts
 
 [![images/4-40-inserts.png](images/4-40-inserts.png)](https://www.3djake.com/ruthex/threaded-insert-4-40-unc-100-pieces)
@@ -64,3 +70,12 @@ place in center area of circuit board to prevent bowing, use #4 wood screws to m
 ## Arduino UNO Hole Pattern
 
 ![](images/uno-hole-dimensions.png)
+
+
+[![arduino-bracket.STL](images/arduino-bracket.png)](arduino-bracket.STL) 
+
+[![arduino-bracket.STL](images/arduino-bracket.jpg)](arduino-bracket.STL) 
+
+
+
+
