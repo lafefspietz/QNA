@@ -5,9 +5,11 @@
 ![](images/qrcode-page.png)
  
  
-# arduino-to-headers-shield Printed Circuit Board(PCB)
+# DB25-relay-HV-control Printed Circuit Board(PCB)
 
-![](images/board-photo.jpg)
+![](images/board-photo-unstuffed.jpg)
+
+![](images/board-photo.png)
 
 
 ## Bill of Materials
@@ -16,7 +18,7 @@
 
 
  - [PCB's](https://www.pcbway.com)
- - [330 ohm resistors]()
+ - [1 MOhm 1206 SMT resistors]()
  - [100k resistors]()
  - [1000 uF Capacitors]()
  - [header strips (40 pins)](https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/G800W268018EU/17083164)
