@@ -3,7 +3,7 @@
 ![](images/qrcode-page.png)
 
 
-# 3d Printed Parts
+# [3d Printed Parts]()
 
 
 ![](images/all-3d-printed-parts.jpg)
@@ -71,10 +71,6 @@ place in center area of circuit board to prevent bowing, use #4 wood screws to m
 
 ![](images/uno-hole-dimensions.png)
 
-
-[![arduino-bracket.STL](images/arduino-bracket.png)](arduino-bracket.STL) 
-
-[![arduino-bracket.STL](images/arduino-bracket.jpg)](arduino-bracket.STL) 
 
 
 
