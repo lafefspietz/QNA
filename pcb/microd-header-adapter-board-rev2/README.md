@@ -6,9 +6,8 @@
  
 # microd-header-adapter-board-rev2 Printed Circuit Board(PCB)
 
-![](images/board-photo-unstuffed.jpg)
 
-![](images/board-photo.png)
+![](images/board-photo.jpg)
 
 
 ## Bill of Materials
@@ -17,9 +16,7 @@
 
 
  - [PCB's](https://www.pcbway.com)
- - [1 MOhm 1206 SMT resistors]()
- - [DB25 board mount connector]()
- - [relays]()
+ - [female micro D]()
  - [header strips (40 pins)](https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/G800W268018EU/17083164)
 
 
@@ -29,3 +26,9 @@
  - [Altium project file .PrjPcb](microd-header-adapter-board-rev2.PrjPcb)
  - [Altium Pcb File .PcbDoc](microd-header-adapter-board-rev2.PrjPcb)
  - [.zip of Gerber files](microd-header-adapter-board-rev2-gerbers.zip)
+ 
+## Assembly Notes
+
+Threaded standoffs must be carefully ground off with a cutting wheel on a Dremmel tool.  See standoffs in connector closeup below:
+
+![](images/micro-D-zoom.jpg)
