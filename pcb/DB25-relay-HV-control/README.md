@@ -2,8 +2,7 @@
 
 ![](images/qrcode.png)
 
-![](images/qrcode-page.png)
- 
+![](images/qrcode-page.png) 
  
 # DB25-relay-HV-control Printed Circuit Board(PCB)
 
