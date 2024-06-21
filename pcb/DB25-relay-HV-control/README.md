@@ -5,7 +5,7 @@
 ![](images/qrcode-page.png)
  
  
-# arduino-to-headers-shield Printed Circuit Board(PCB)
+# DB25-relay-HV-control Printed Circuit Board(PCB)
 
 ![](images/board-photo.jpg)
 
