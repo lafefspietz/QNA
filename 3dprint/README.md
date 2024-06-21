@@ -25,17 +25,17 @@ Use 4-40 brass thread inserts, press them in with a soldering iron.
 
 Use 4-40 brass thread inserts, press them in with a soldering iron
 
-[![HV-DCDC-bracket.STL](images/HV-DCDC-bracket.PNG)](HV-DCDC-bracket.STL) 
+[![HV-DCDC-bracket.STL](images/HV-DCDC-bracket.png)](HV-DCDC-bracket.STL) 
 
 ## Front Panel Edge Bracket
 
 Use 4-40 brass thread inserts, press them in with a soldering iron. Attach to wood with #4 wood screws. 
 
-[![front-panel-edge-bracket.STL](images/front-panel-edge-bracket.PNG)](front-panel-edge-bracket.STL) 
+[![front-panel-edge-bracket.STL](images/front-panel-edge-bracket.png)](front-panel-edge-bracket.STL) 
 
 ## Front Panel Center Bracket
 
 place in center area of circuit board to prevent bowing, use #4 wood screws to mount.
 
-[![front-panel-center-bracket.STL](images/front-panel-center-bracket.PNG)](front-panel-center-bracket.STL) 
+[![front-panel-center-bracket.STL](images/front-panel-center-bracket.png)](front-panel-center-bracket.STL) 
 
