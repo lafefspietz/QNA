@@ -11,12 +11,12 @@ Open-source MEMS-based RF measurement system for quantum information science.
   - [BUD box modifications](bud-box/)
   - [Rack Mount Front Panel Assembly](rack-mount-front-panel-assembly/)
   - [Arduino shield](pcb/arduino-to-headers-shield/)
-  - [Arduino Code for SP9T Switch]()
   - [DSUB and relay board](pcb/DB25-relay-HV-control/)
   - [Cold Mechanical Assembly](cold-mechanical/)
   - [Micro D breakout board](pcb/microd-header-adapter-board-rev2/)
-  - [RF Switch Board](pcb/rectangle11/)
-  - [RF calibration boards](pcb/calboards/)
+  - [RF Switch Board]  
+  -
+  - [RF calibration boards]
 
 ## Rack Mount Control Panel
 
