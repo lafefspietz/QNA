@@ -8,7 +8,7 @@
 
 We use a diecast aluminum enclosure from [Bud Industries](https://www.budind.com/)(part number [AN-1304-A](https://www.budind.com/product/nema-ip-rated-boxes/an-a-series-style-a-aluminum-enclosure/an-1304/)) to enclose the high voltage driver for the MEMS switches used in the QNA system. 
 
-This box can be modified yourself if you have access to a milling machine or 
+This box can be modified yourself if you have access to a milling machine or you can get it modified by Bud or by some third party machine shop.  
 
 
 ![](images/bud-box-lid-top.jpg)
