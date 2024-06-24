@@ -4,8 +4,13 @@
 
 # [Quantum Network Analyzer(QNA)](https://github.com/lafefspietz/QNA)
 
-Open-source MEMS-based RF measurement system for quantum information science.
+The QNA is an open source system of technologies used to measure how signals flow into and out of quantum microwave circuits. My "microwave" we generally mean from a few hundred megahertz to a few 10's of gigahertz.  And by "quantum" we mean that the temperature of the circuits is low enough that hf >> kT, where h is the Planck constant and k is the Boltzmann constant. 
 
+Being in this quantum microwave regime means that we are generally dealing with temperatures about 10,000 times colder than room temperature, which are usually created using a [dilution refrigerator](https://en.wikipedia.org/wiki/Dilution_refrigerator). 
+
+The components shared in this repository represent tools for using the MEMS-based "Ideal Switch" from Menlo Microwave to create RF calibration systems for use in a dilution refrigerator.  We call this collection of systems and technologies the Quantum Network Analyzer(QNA) in analog to the Vector Network Analyzer(VNA) terminology in widespread use in radio frequency measurements.  
+
+The work shared here is a work in progress, and all components here are in a prototype phase at the time of this writing.(June 2024).
 
   - [3d printed parts](3dprint/)
   - [BUD box modifications](bud-box/)
