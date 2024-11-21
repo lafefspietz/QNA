@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DB25-relay-HV-control.PrjPcb]
+   Generated File[DB25-relay-HV-control_Copper_Signal_Top.gbr]
+   Generated File[DB25-relay-HV-control_Copper_Signal_Bot.gbr]
+   Generated File[DB25-relay-HV-control_Legend_Top.gbr]
+   Generated File[DB25-relay-HV-control_Legend_Bot.gbr]
+   Generated File[DB25-relay-HV-control_Soldermask_Top.gbr]
+   Generated File[DB25-relay-HV-control_Soldermask_Bot.gbr]
+   Generated File[DB25-relay-HV-control_Paste_Top.gbr]
+   Generated File[DB25-relay-HV-control_Paste_Bot.gbr]
+   Generated File[DB25-relay-HV-control_Profile.gbr]
+   Generated File[DB25-relay-HV-control_NPTH_Drill.gbr]
+   Generated File[DB25-relay-HV-control_PTH_Drill.gbr]
+   Generated File[DB25-relay-HV-control.EXTREP]
+   Generated File[DB25-relay-HV-control.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 9:48:27 AM On 11/21/2024

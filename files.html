@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Home page</title>
+
+</head>
+<body>    
+<h2><a href = "index.html">home</a></h2>
+
+<h1>Files</h1>
+
+<h2>CSV</h2>
+<textarea id = "csvtext" style = "width:95%;display:block;height:20em;background-color:black;font:courier;color:#00ff00"></textarea>
+
+<h2>Markdown</h2>
+<textarea id = "markdowntext" style = "width:95%;display:block;height:20em;background-color:black;font:courier;color:#00ff00"></textarea>
+
+<ul id = "filelist">
+    
+</ul>
+
+<script>
+
+repobase = "https://github.com/lafefspietz/MEMSduino/raw/refs/heads/main/";
+
+filetypes = {
+    "xlsx":"Bill of Materials(Excel file)",
+    "zip":"ZIP of Gerber Files used to manufacture board",
+    "PcbDoc":"Altium layout file",
+    "PrjPcb":"Altium project file",
+    "PrjPcbStructure":"Altium project structure file",
+    "SchDoc":"Altium schematic file",
+    "STL":"3d print file",
+    "SLDDRW":"SolidWorks drawing file",
+    "SLDPRT":"SolidWorks part file",
+    "STEP":"Machining file",
+    "pdf":"Drawing",
+    "ino":"Arduino source code file",
+    "py":"Python source code file",
+    "m":"Matlab source code file"
+}
+
+
+
+filenames = [];
+var httpcfiles = new XMLHttpRequest();
+httpcfiles.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        filenames = JSON.parse(this.responseText);
+        loadfiles();
+    }
+};
+httpcfiles.open("GET", "dir.php", true);
+httpcfiles.send();
+
+csvdata = "Design file name, File type,Open Source License,Location of the file\n";
+
+
+markdowntext = "";
+
+function loadfiles(){
+    for(var index = 0;index < filenames.length;index++){
+//        var newli = document.createElement("li");
+  //      newli.innerHTML = filenames[index]
+    //    document.getElementById("filelist").appendChild(newli);
+        
+        if(filenames[index].includes(".")){
+            extension = filenames[index].split(".")[filenames[index].split(".").length-1]
+            if(filetypes[extension] != undefined){
+                csvdata += filenames[index] + ",";
+                type = "";
+                type  = filetypes[extension];   
+                csvdata += type + ",";
+                csvdata += "Public Domain,";
+                csvdata += repobase + filenames[index] + "\n";
+                markdowntext += " - [";
+                markdowntext += filenames[index] + "](";
+                markdowntext += repobase + filenames[index] + ")\n";
+            }
+
+        }    
+    }
+    document.getElementById("csvtext").value = csvdata;   
+    document.getElementById("markdowntext").value = markdowntext;   
+
+    data = encodeURIComponent(csvdata);
+    var httpc = new XMLHttpRequest();
+    var url = "filesaver.php";        
+    httpc.open("POST", url, true);
+    httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
+    httpc.send("data="+data+"&filename=files.csv");//send text to filesaver.php
+}
+
+</script>
+<style>
+    body{
+        font-size:2em;
+        font-family:Arial;
+    }
+    a{
+        color:#0000ff;
+    }
+</style>
+</body>
+</html>

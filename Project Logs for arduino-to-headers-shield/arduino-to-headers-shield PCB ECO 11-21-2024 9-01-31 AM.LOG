@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=J7 Old DesignItemId=TSW-105-07-G-S New DesignItemId=TSW-105-07-G-topside
+Change Component Footprint: Designator=J7 Old Footprint=SAMTEC_TSW-105-07-G-S New Footprint=SAMTEC_TSW-105-07-G-S-topside
+Change Component Comment : Designator=J7 Old Comment=TSW-105-07-G-S New Comment=TSW-105-07-G-topside

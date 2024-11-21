@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [arduino-to-headers-shield.PrjPcb]
+   Generated File[arduino-to-headers-shield_Copper_Signal_Top.gbr]
+   Generated File[arduino-to-headers-shield_Copper_Signal_Bot.gbr]
+   Generated File[arduino-to-headers-shield_Legend_Top.gbr]
+   Generated File[arduino-to-headers-shield_Legend_Bot.gbr]
+   Generated File[arduino-to-headers-shield_Soldermask_Top.gbr]
+   Generated File[arduino-to-headers-shield_Soldermask_Bot.gbr]
+   Generated File[arduino-to-headers-shield_Paste_Top.gbr]
+   Generated File[arduino-to-headers-shield_Paste_Bot.gbr]
+   Generated File[arduino-to-headers-shield_Profile.gbr]
+   Generated File[arduino-to-headers-shield_NPTH_Drill.gbr]
+   Generated File[arduino-to-headers-shield_PTH_Drill.gbr]
+   Generated File[arduino-to-headers-shield.EXTREP]
+   Generated File[arduino-to-headers-shield.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 9:46:29 AM On 11/21/2024
