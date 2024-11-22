@@ -8,7 +8,10 @@ The system documented here turns one RF line into 9 by taking a single RF input,
 
 Calibration software which can use a standard qubit chip to measure test chips will be part of the system.  An Arduino-based rack mount controller is part of the system as well.
 
+
 ![](images/topology.png)
+
+![](images/1x9x1-render.png)
 
 ![](images/real-qubit.png)
 
@@ -38,6 +41,21 @@ Calibration software which can use a standard qubit chip to measure test chips w
  - Python control code
  - Calibration method based on tunable qubit chips to determine both scattering parameter calibration and noise calibration
 
+![](images/QNA-control-panel.png)
+
+
+ - [14X pixels Flora RGB Smart NeoPixel version 3 - Sheet of 20](https://www.adafruit.com/product/1559)
+ - [14X SPST tactile switch, E-Switch part number TL59NF160Q](https://www.digikey.com/en/products/detail/e-switch/TL59NF160Q/390533)
+ - [1X 5 wire cables](https://www.amazon.com/StarTech-USBINT5PIN-Internal-Motherboard-Header/dp/B003HHROBG/)
+ - [14X 10 k 0.1% axial reistors, Yageo part number MFP-25BRD52-10K](https://www.digikey.com/en/products/detail/yageo/MFP-25BRD52-10K/2058797)
+
+[![](images/neopixel.png)](https://www.adafruit.com/product/1559)
+
+[![](images/button.png)](https://www.digikey.com/en/products/detail/e-switch/TL59NF160Q/390533)
+
+[![](images/5pincable.png)](https://www.amazon.com/StarTech-USBINT5PIN-Internal-Motherboard-Header/dp/B003HHROBG/)
+
+[![](images/10k-precision-resistor.png)](https://www.digikey.com/en/products/detail/yageo/MFP-25BRD52-10K/2058797)
 
 ![](images/arduino-to-headers-shield.png)
 
@@ -48,8 +66,6 @@ Calibration software which can use a standard qubit chip to measure test chips w
  - [0.1 inch header strips](https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/)
 
 [![image of electrolytic capacitor](images/rubycon-cap.png)](https://www.digikey.com/en/products/detail/rubycon/16PK1000MEFC10X12-5/3563556)
-
-
 
 
 Add link here to the 4 and 8 pin cables which connect these boards
@@ -65,6 +81,18 @@ Add link here to the 4 and 8 pin cables which connect these boards
  - [24x 1 MOhm resistor in SMT 1206 package, Yageo part number RC1206FR-071ML](https://www.digikey.com/en/products/detail/yageo/RC1206FR-071ML/728388)
  - [1x Board mount female DB-25 connector, Assmann part number A-DF 25 PP/Z](https://www.digikey.com/en/products/detail/assmann-wsw-components/A-DF-25-PP-Z/1241794)
  - [0.1 inch header strips](https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/)
+
+# 1x9x1
+
+![](images/1x9x1-render.png)
+
+![](images/microd-photo.png)
+
+![](images/mm5130-photo.png)
+
+![](images/2mm-connector-photo.png)
+
+![](images/headers.png)
 
 
 ![](images/directional-coupler.png)
