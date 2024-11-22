@@ -67,6 +67,8 @@ Calibration software which can use a standard qubit chip to measure test chips w
 
 [![image of electrolytic capacitor](images/rubycon-cap.png)](https://www.digikey.com/en/products/detail/rubycon/16PK1000MEFC10X12-5/3563556)
 
+[![](images/headers.png)]
+
 
 Add link here to the 4 and 8 pin cables which connect these boards
 
@@ -86,14 +88,21 @@ Add link here to the 4 and 8 pin cables which connect these boards
 
 ![](images/1x9x1-render.png)
 
-![](images/microd-photo.png)
+ - [microd](https://www.digikey.com/en/products/detail/cinch-connectivity-solutions/M83513-25-D01CP/12471446)
+ - [2 mm headers](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2-292161-4/5124519)
+ - [MEMS switch](https://www.mouser.com/new/menlo-micro/menlo-micro-mm5130-sp4t-rf-switch/)
+ - [56 k resistor](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CPF0201B56K2E1/14007085)
+ - [SMP connectors from Molex](https://www.digikey.com/en/products/detail/molex/0853050232/2421464)
 
-![](images/mm5130-photo.png)
+[![2mm 4 pin connector](images/2mm-connector-photo.png)](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2-292161-4/5124519)
 
-![](images/2mm-connector-photo.png)
+[![](images/microd-photo.png)](https://www.digikey.com/en/products/detail/cinch-connectivity-solutions/M83513-25-D01CP/12471446)
 
-![](images/headers.png)
+[![](images/mm5130-photo.png)](https://www.mouser.com/new/menlo-micro/menlo-micro-mm5130-sp4t-rf-switch/)
 
+[![](images/smp-photo.png)](https://www.digikey.com/en/products/detail/molex/0853050232/2421464)
+
+[![](images/56k-resistor.png)](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CPF0201B56K2E1/14007085)
 
 ![](images/directional-coupler.png)
 
