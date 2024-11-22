@@ -47,6 +47,11 @@ Calibration software which can use a standard qubit chip to measure test chips w
  - [330 Ohm Stackpole Electronics part number CF18JT330R](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT330R/1741683)
  - [0.1 inch header strips](https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/)
 
+[![image of electrolytic capacitor](images/rubycon-cap.png)](https://www.digikey.com/en/products/detail/rubycon/16PK1000MEFC10X12-5/3563556)
+
+
+
+
 Add link here to the 4 and 8 pin cables which connect these boards
 
 ![](images/DB25-relay-HV-control.png)
