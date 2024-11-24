@@ -84,6 +84,15 @@ Add link here to the 4 and 8 pin cables which connect these boards
  - [1x Board mount female DB-25 connector, Assmann part number A-DF 25 PP/Z](https://www.digikey.com/en/products/detail/assmann-wsw-components/A-DF-25-PP-Z/1241794)
  - [0.1 inch header strips](https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/)
 
+
+
+[![](images/number4-washer-drawing.png)](https://www.mcmaster.com/92916a320/)
+
+[![](images/hex-standoff-drawing.png)](https://www.mcmaster.com/91075A462/)
+
+[![](4-40-brass-long-screw-drawing.png)](https://www.mcmaster.com/93465a113/)
+
+
 # 1x9x1
 
 ![](images/1x9x1-render.png)
