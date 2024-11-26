@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Journal xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RootPath />
+  <IdNumber>03aa1f65-edf6-46b9-a856-3834ec8bb3a0</IdNumber>
+  <CableConnectorTable>
+    <CableConnectorItem>
+      <Port>1</Port>
+      <Cable />
+      <Connector />
+    </CableConnectorItem>
+    <CableConnectorItem>
+      <Port>2</Port>
+      <Cable />
+      <Connector />
+    </CableConnectorItem>
+  </CableConnectorTable>
+</Journal>
